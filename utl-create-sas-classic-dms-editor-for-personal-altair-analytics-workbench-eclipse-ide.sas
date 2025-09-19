@@ -18,7 +18,11 @@ STEPS (if you have an old version of the workbench, you may need to install the 
   4 backup the current metadata file
   4 Copy the  downloaded metadata file from step 1 into  c:/somefolder
 
-  Thats it
+Thats it
+  
+github
+https://tinyurl.com/48f5zfwu
+https://github.com/rogerjdeangelis/utl-create-sas-classic-dms-editor-for-personal-altair-analytics-workbench-eclipse-ide
 
 metadats
 https://tinyurl.com/4p8yy657
